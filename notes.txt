@@ -1,1 +1,5 @@
-git init für den start
+git init für den start (erstellen des repository)
+git status um den status der Dinge anzuzeigen
+git add (Datei dem Staging hinzufügen)
+git commit -m"notes.txt added" (Änderungen speichern und mit "-m" eine Notiz hinzufügen)
+git commit . (committed den ganzen Ordner oder alle Dateien im Ordner(notes.txt + index.html))
