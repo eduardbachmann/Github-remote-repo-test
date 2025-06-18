@@ -4,3 +4,4 @@ git status // displays status (use it always to see what is going on)
 git add <file> // add file to staging
 git commit <file> -m"<message>" // commit change and add a notice with -m"<message>"
 git commit . -m"<message>"// dot means it commits the whole folder/all files of the folder (notes.txt + index.html)
+git reset --soft HEAD~1
