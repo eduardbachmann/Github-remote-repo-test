@@ -1,3 +1,4 @@
+git grundlagen
 git init // for initilizing repository
 git status // show status
 git add // add file to staging
