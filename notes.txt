@@ -5,3 +5,4 @@ git add <file> // add file to the staging area
 git commit <file> -m"<message>" // commit change and add a notice with -m"<message>"
 git commit . -m"<message>"// dot means it commits the whole folder/all files of the folder (notes.txt + index.html)
 git reset --soft HEAD~1 // puts the change back into the staging arena and deletes the commits. ~1 targets the last change
+git reset --hard HEAD~1 // absolutely deletes the last change. its gone
