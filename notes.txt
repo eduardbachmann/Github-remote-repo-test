@@ -1,7 +1,6 @@
 git grundlagen
 git init // for initilizing repository
-git status // displays status
+git status // displays status (use it always to see that is going on)
 git add <file> // add file to staging
 git commit <file> -m"<file>" // commit change and add a notice with -m"<messege>"
 git commit . -m""// commits the whole folder/all files of the folder (notes.txt + index.html)
-files need to be staged after any change and then committed
